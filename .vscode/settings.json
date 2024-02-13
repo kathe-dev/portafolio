@@ -1,0 +1,8 @@
+{
+	"editor.formatOnSave": true,
+	"terminal.integrated.defaultProfile.windows": "Command Prompt",
+	"editor.fontFamily": "mononoki",
+	"explorer.compactFolders": false,
+	"editor.indentSize": "tabSize",
+	"editor.tabSize": 4
+}
